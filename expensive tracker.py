@@ -1,6 +1,6 @@
 expenses = []
 total = 0
-budget = float('inf')
+budget = float('int')
 
 while True:
     print("\n1. Add Expense")
